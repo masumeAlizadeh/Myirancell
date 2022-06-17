@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+ 
+
+  height: 100%;
+
+  margin-top: 2% ;
+  margin-left: 2%;
 }
 
 .App-logo {
@@ -36,3 +42,11 @@
     transform: rotate(360deg);
   }
 }
+.mainpage{width: 49%; float: left;}
+.menu{width: 18%; float: left; margin: 0 auto;}
+.profile{width: 26%; float: left;}
+input{border-radius: 5px; float: right;}
+.haveleftb{border-left: 2px solid yellow;}
+p{direction: rtl;}
+.iconp{width: 100px;height: 100px;}
+.banerimg{width: 100%;height: 200px;}
